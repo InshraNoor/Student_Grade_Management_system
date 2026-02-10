@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Inshra ",
+        "grade": 100
+    },
+    "2": {
+        "name": "Rubab",
+        "grade": 200
+    },
+    "3": {
+        "name": "Noor",
+        "grade": 300
+    },
+    "4": {
+        "name": "Haleema",
+        "grade": 400
+    },
+    "6": {
+        "name": "Ishrat",
+        "grade": 600
+    },
+    "5": {
+        "name": "Hafsa",
+        "grade": 500
+    }
+}
